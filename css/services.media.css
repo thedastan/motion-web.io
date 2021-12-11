@@ -1,0 +1,1177 @@
+@media (max-width: 1440px) {
+  #navbar .row--title__fixed {
+    margin-left: -60px;
+  }
+
+  #navbar .btn {
+    margin-top: -8px;
+  }
+
+  #navbar .row--title__fab {
+    color: red;
+    margin: 0 31px;
+    font-size: 44px;
+  }
+
+  #navbar .row--title__fabs {
+    margin-top: 17px;
+    margin-left: -31px;
+  }
+
+  #navbar .row--title__block {
+    margin-left: -77px;
+  }
+}
+@media (max-width: 1200px) {
+  #navbar .row--title__next {
+    margin-left: 166px;
+    margin-top: 19px;
+    animation: __next 1s ease-in-out alternate;
+  }
+
+  #navbar .btn {
+    border: none;
+    width: 70px;
+    height: 50px;
+    z-index: 13;
+    position: absolute;
+    margin-left: 1051px;
+    margin-top: -4px;
+  }
+
+  #navbar .row--title__fixed {
+    margin-left: -30px;
+    height: 17%;
+  }
+
+  #navbar .row--title--img {
+    margin-left: -75px;
+  }
+
+  #services .row--item__page2 {
+    font-size: 16px;
+  }
+
+  #services .row--item--square {
+    margin: 15px 67px;
+  }
+
+  #application .row--application {
+    text-align: center;
+  }
+
+  #application .row--application__card {
+    margin: 20px 232px;
+  }
+
+  #footer .row--footer__project {
+    font-size: 40px;
+  }
+
+  #footer .row--footer__btn {
+    width: 260px;
+    height: 55px;
+    font-size: 23px;
+  }
+
+  #navbar .row--title__block {
+    margin-top: -528px;
+    margin-left: -42px;
+  }
+
+  #navbar .row--title__square {
+    margin-left: 330px;
+  }
+
+  #navbar .menu {
+    margin-left: 147px;
+  }
+
+  #navbar .menu2 {
+    margin-left: 147px;
+  }
+
+  #navbar .card {
+    margin: 35px 198px;
+  }
+}
+@media (max-width: 1024px) {
+  #navbar .row--title__fixed {
+    margin-left: -48px;
+    height: 14%;
+  }
+
+  #navbar .btn {
+    margin-left: 879px;
+    margin-top: 5px;
+  }
+
+  #navbar .row--title__next {
+    margin-left: 41px;
+  }
+
+  #navbar .row--title__titles {
+    font-size: 13px;
+  }
+
+  #navbar .row--title__item {
+    font-size: 73px;
+  }
+
+  #navbar .row--title__btn2 {
+    width: 300px;
+  }
+
+  #application .row--application__card {
+    margin: 20px 156px;
+  }
+
+  #services .row--item__btn2 {
+    width: 383px;
+    height: 73px;
+  }
+
+  #services .row--item__petitioner {
+    display: flex;
+    justify-content: center;
+  }
+
+  #navbar .menu {
+    margin-left: 90px;
+  }
+
+  #navbar .menu2 {
+    margin-left: 90px;
+  }
+
+  #navbar .card {
+    margin: 28px 101px;
+  }
+
+  #navbar .modal-window {
+    height: 161%;
+  }
+}
+@media (max-width: 992px) {
+  #navbar .row--title--img {
+    margin-left: -77px;
+  }
+
+  #navbar .row--title__titles {
+    font-size: 12px;
+  }
+
+  #navbar .row--title__next {
+    margin-left: 26px;
+  }
+
+  #navbar .btn {
+    margin-left: 860px;
+    margin-top: 5px;
+  }
+
+  #services .row--item--square {
+    margin: 15px 28px;
+  }
+
+  #footer .row--footer__ins {
+    margin: 5px 40px;
+  }
+
+  #navbar .row--title__fixed {
+    margin-left: -17px;
+  }
+
+  #application .row--application__card {
+    margin: 20px 151px;
+  }
+
+  #navbar .row--title__block {
+    margin-top: -515px;
+    margin-left: -28px;
+  }
+
+  #navbar .row--title__square {
+    margin-left: 239px;
+  }
+
+  #footer .row--footer__project {
+    font-size: 35px;
+  }
+
+  #footer .row--footer__btn {
+    width: 250px;
+    height: 50px;
+    font-size: 22px;
+  }
+}
+@media (max-width: 768px) {
+  #navbar .row--title__next {
+    margin-left: 26px;
+    display: none;
+  }
+
+  #navbar .row--title__fixed {
+    margin-left: -24px;
+    height: 7%;
+  }
+
+  #navbar .btn {
+    margin-left: 634px;
+    margin-top: -6px;
+  }
+
+  #navbar .row--title__item {
+    font-size: 67px;
+  }
+
+  #navbar .row--title__item2 {
+    font-size: 17px;
+  }
+
+  #navbar .row--title__btn2 {
+    width: 240px;
+    font-size: 17px;
+  }
+
+  #navbar .row--title__mode {
+    font-size: 15px;
+  }
+
+  #navbar {
+    min-height: 64vh;
+  }
+
+  #services .row--item__ser {
+    font-size: 27px;
+  }
+
+  #services .row--item--square {
+    margin: 15px 145px;
+  }
+
+  #services .row--item__btn2 {
+    width: 293px;
+    height: 52px;
+    font-size: 19px;
+  }
+
+  #application .row--application__your2 {
+    font-size: 15px;
+  }
+
+  #application .row--application__card {
+    margin: 20px 31px;
+  }
+
+  #footer .row--footer__project {
+    font-size: 27px;
+  }
+
+  #footer .row--footer__btn {
+    width: 204px;
+    height: 44px;
+    font-size: 18px;
+  }
+
+  #footer {
+    min-height: 25vh;
+  }
+
+  #navbar .row--title__block {
+    margin-top: -515px;
+    margin-left: -36px;
+  }
+
+  #navbar .row--title__square {
+    margin-left: 115px;
+    margin-top: 250px;
+  }
+
+  #navbar .menu2 {
+    margin-left: 10px;
+  }
+
+  #navbar .card {
+    margin: 28px -34px;
+  }
+
+  #navbar .menu {
+    margin-left: 6px;
+  }
+
+  #navbar .hello {
+    padding: 20px;
+    margin-left: -83px;
+  }
+
+  #navbar .btn-close {
+    right: 30px;
+  }
+
+  #navbar .modal-window {
+    width: 100%;
+    height: 164%;
+  }
+}
+@media (max-width: 576px) {
+  #navbar .row--title__fixed {
+    margin-left: -17px;
+    height: 9%;
+  }
+
+  #navbar .btn {
+    margin-left: 450px;
+    margin-top: -7px;
+  }
+
+  #navbar .row--title__item {
+    font-size: 53px;
+    margin-top: -75px;
+  }
+
+  #navbar .row--title__item2 {
+    font-size: 16px;
+  }
+
+  #navbar .row--title__btn2 {
+    width: 218px;
+    height: 44px;
+    font-size: 16px;
+  }
+
+  #navbar .row--title__fabs {
+    margin-left: 95px;
+  }
+
+  #services .row--item--square {
+    margin: 15px 62px;
+  }
+
+  #services .row--item__petitioner {
+    margin-left: 12px;
+  }
+
+  #application .row--application__card {
+    width: 526px;
+    height: 530px;
+    margin-left: -3px;
+  }
+
+  #application .row--application__name {
+    width: 90%;
+  }
+
+  #application .row--application__name2 {
+    width: 90%;
+    margin: -10px 25px;
+  }
+
+  #application .row--application__name3 {
+    width: 90%;
+    margin: 27px 25px;
+  }
+
+  #application .row--application__name4 {
+    width: 90%;
+    margin: -5px 26px;
+  }
+
+  #application .row--application__area {
+    width: 475px;
+    height: 76px;
+  }
+
+  #application .row--application__btn {
+    width: 479px;
+    font-size: 20px;
+  }
+
+  #footer .row--footer__width {
+    width: 537px;
+    height: 3px;
+    margin-top: 123px;
+    position: absolute;
+    background: red;
+  }
+
+  #footer .row-footer__footer {
+    margin-top: 10px;
+  }
+
+  #navbar .row--title__block {
+    margin-top: -410px;
+    margin-left: -31px;
+  }
+
+  #navbar .row--title__square {
+    margin-left: 32px;
+    margin-top: 250px;
+    width: 90%;
+  }
+
+  #navbar .row--title__vk {
+    padding-left: 475px;
+  }
+
+  #navbar .row--title__name {
+    width: 90%;
+    margin-left: 24px;
+  }
+
+  #navbar .row--title__name2 {
+    width: 90%;
+    margin-left: 24px;
+  }
+
+  #navbar .menu3 {
+    font-size: 12px;
+    margin-left: -83px;
+  }
+
+  #navbar .menu31 {
+    margin-left: 0;
+    padding: 5px 60px;
+    /* font-size: 14px; */
+  }
+
+  #navbar .menu {
+    margin-left: -67px;
+  }
+
+  #navbar .tench {
+    width: 90%;
+    height: 3px;
+    position: absolute;
+    background: red;
+    margin: 359px -68px;
+  }
+
+  #navbar .row--tench {
+    margin-top: 0;
+    margin-left: 0;
+  }
+
+  #navbar .menu2 {
+    margin-left: -24px;
+    padding: 0 0;
+  }
+
+  #navbar .card {
+    margin: 28px 1px;
+    width: 100%;
+    height: 90%;
+  }
+
+  #navbar .name {
+    width: 90%;
+    height: 40px;
+    background: #FFFFFF;
+    border-radius: 10px;
+    border: none;
+    margin: 30px 18px;
+    outline: none;
+    padding: 0 20px;
+  }
+
+  #navbar .name2 {
+    width: 90%;
+    margin: -22px 18px;
+  }
+
+  #navbar .name3 {
+    width: 90%;
+    margin: 30px 18px;
+  }
+
+  #navbar .modal-window {
+    width: 100%;
+    height: 203%;
+  }
+
+  #navbar .name4 {
+    width: 90%;
+    margin: -10px 18px;
+  }
+
+  #navbar .area {
+    width: 90%;
+    margin: 25px 18px;
+  }
+
+  #navbar .__btn {
+    width: 90%;
+    margin: -13px 18px;
+  }
+}
+@media (max-width: 415px) {
+  #navbar .row--title__fixed {
+    margin-left: 0;
+    height: 9%;
+  }
+
+  #navbar .btn {
+    margin-left: 313px;
+    margin-top: -7px;
+  }
+
+  #navbar .row--title__item {
+    font-size: 45px;
+    margin-top: -85px;
+  }
+
+  #navbar .row--title__item2 {
+    font-size: 14px;
+  }
+
+  #navbar .row--title__btn2 {
+    width: 155px;
+    height: 38px;
+    font-size: 12px;
+  }
+
+  #navbar .row--title__mode {
+    font-size: 13px;
+  }
+
+  #navbar .row--title__fabs {
+    margin-left: 44px;
+  }
+
+  #services .row--item--square {
+    margin: 15px 19px;
+    width: 90%;
+  }
+
+  #services .row--item__square {
+    width: 100%;
+    height: 88px;
+  }
+
+  #services .row--item__dots {
+    width: 9px;
+    height: 6px;
+  }
+
+  #services .row--item__page {
+    font-size: 21px;
+  }
+
+  #services .row--item__page2 {
+    font-size: 13px;
+  }
+
+  #services .row--item__price2 {
+    font-size: 14px;
+  }
+
+  #services .row--item__price3 {
+    font-size: 18px;
+  }
+
+  #application .row--application__card {
+    width: 90%;
+    height: 530px;
+    margin-left: 21px;
+  }
+
+  #application .row--application__name {
+    width: 90%;
+    margin-left: 16px;
+  }
+
+  #application .row--application__name2 {
+    width: 90%;
+    margin: -10px 15px;
+  }
+
+  #application .row--application__name3 {
+    width: 90%;
+    margin: 27px 15px;
+  }
+
+  #application .row--application__name4 {
+    width: 90%;
+    margin: -5px 15px;
+  }
+
+  #application .row--application__area {
+    width: 316px;
+    margin-left: 15px;
+    height: 76px;
+  }
+
+  #application .row--application__btn {
+    width: 320px;
+    margin-left: 13px;
+    font-size: 20px;
+  }
+
+  #application .row--application__data {
+    font-size: 15px;
+  }
+
+  #navbar .width {
+    width: 40px;
+    height: 4px;
+  }
+
+  #footer .row--footer__width {
+    width: 90%;
+    margin-left: 19px;
+  }
+
+  #navbar .row--title__block {
+    margin-top: -410px;
+    margin-left: -12px;
+  }
+
+  #navbar .row--title__square {
+    margin-left: 23px;
+    margin-top: 250px;
+    width: 90%;
+  }
+
+  #navbar .row--title__name {
+    width: 90%;
+    margin-left: 16px;
+  }
+
+  #navbar .row--title__name2 {
+    width: 90%;
+    margin-left: 16px;
+  }
+
+  #navbar .row--title__btn3 {
+    margin-left: 88px;
+  }
+
+  #navbar .row--title__vk {
+    padding-left: 333px;
+  }
+
+  #footer .row--footer__ins {
+    margin: 5px 27px;
+  }
+
+  #navbar .row--tench2 {
+    margin-left: -6px;
+    margin-top: 2%;
+  }
+
+  #navbar .menu3 {
+    font-size: 15px;
+    margin-left: -117px;
+  }
+
+  #navbar .menu2 {
+    margin-left: -51px;
+  }
+
+  #navbar .menu31 {
+    margin-left: 27px;
+    padding: 10px 86px;
+  }
+
+  #navbar .menu {
+    margin-left: -75px;
+    font-size: 18px;
+  }
+
+  #navbar .row--tench {
+    margin-top: 222%;
+    margin-left: -261px;
+  }
+
+  #navbar .tench {
+    width: 90%;
+    height: 3px;
+    position: absolute;
+    background: red;
+    margin: 447px -76px;
+  }
+
+  #navbar .modal-window {
+    width: 100%;
+    height: 210%;
+  }
+
+  #navbar .card {
+    margin: 29px -68px;
+    width: 163%;
+    height: 90%;
+  }
+}
+@media (max-width: 386px) {
+  #navbar .hello {
+    padding: 20px;
+    width: 100%;
+    margin-left: -83px;
+  }
+
+  #navbar .btn {
+    margin-left: 290px;
+    margin-top: -12px;
+  }
+
+  #navbar .row--title--img {
+    margin-left: -93px;
+    width: 121%;
+  }
+
+  #navbar .row--title__fabs {
+    margin-left: 29px;
+  }
+
+  #services .row--item__price3 {
+    font-size: 14px;
+  }
+
+  #services .row--item--square {
+    margin: 15px 19px;
+    width: 90%;
+    height: 90%;
+  }
+
+  #services .row--item__page2 {
+    font-size: 12px;
+  }
+
+  #application .row--application__area {
+    width: 294px;
+    margin-left: 15px;
+    height: 76px;
+  }
+
+  #application .row--application__btn {
+    width: 299px;
+    margin-left: 13px;
+    font-size: 20px;
+  }
+
+  #application .row--application__card {
+    width: 90%;
+    height: 541px;
+    margin-left: 21px;
+  }
+
+  #navbar .menu3 {
+    font-size: 12px;
+    margin-left: -117px;
+  }
+
+  #navbar .row--tench {
+    margin-top: 260%;
+    margin-left: -261px;
+  }
+
+  #navbar .modal-window {
+    width: 100%;
+    height: 240%;
+  }
+
+  #navbar .card {
+    margin: 29px -68px;
+    width: 177%;
+    height: 90%;
+  }
+}
+@media (max-width: 376px) {
+  #navbar .row--title--img {
+    margin-left: -94px;
+    width: 141%;
+  }
+
+  #navbar .btn {
+    margin-left: 280px;
+    margin-top: -12px;
+  }
+
+  #navbar .row--title__item {
+    font-size: 40px;
+    margin-top: -85px;
+  }
+
+  #navbar .row--title__mode {
+    font-size: 12px;
+  }
+
+  #navbar .row--title__fabs {
+    margin-left: 23px;
+  }
+
+  #services .row--item__general {
+    padding: 0 40px;
+  }
+
+  #services .row--item__page2 {
+    font-size: 12px;
+  }
+
+  #services .row--item__price2 {
+    font-size: 13px;
+  }
+
+  #services .row--item__price3 {
+    font-size: 13px;
+  }
+
+  #application .row--application__area {
+    width: 285px;
+  }
+
+  #application .row--application__btn {
+    width: 285px;
+  }
+
+  #application .row--application__data {
+    font-size: 14px;
+  }
+
+  #footer .row--footer__ins {
+    margin: 5px 10px;
+  }
+
+  #footer .row--footer__ins {
+    margin: 5px 33px;
+    font-size: 15px;
+  }
+
+  #navbar .row--title__block {
+    margin-top: -373px;
+    margin-left: -12px;
+  }
+
+  #navbar .row--title__vk {
+    padding-left: 295px;
+  }
+
+  #navbar .menu {
+    margin-left: -96px;
+    font-size: 18px;
+  }
+
+  #navbar .menu2 {
+    margin-left: -96px;
+  }
+
+  #navbar .card {
+    margin: 75px -68px;
+    width: 183%;
+    height: 82%;
+  }
+
+  #navbar .menu31 {
+    margin-left: 41px;
+    padding: 4px 98px;
+  }
+
+  #navbar .tench {
+    width: 90%;
+    height: 3px;
+    position: absolute;
+    background: red;
+    margin: 334px -76px;
+  }
+
+  #navbar .menu3 {
+    font-size: 14px;
+    margin-left: -117px;
+  }
+
+  #navbar .tench2 {
+    width: 90%;
+    height: 3px;
+    background: red;
+    position: absolute;
+    margin-top: 180%;
+    margin-left: -77px;
+  }
+
+  #navbar .row--tench {
+    margin-top: 211%;
+    margin-left: -235px;
+  }
+
+  #navbar .row--tench2 {
+    margin-top: 0;
+    margin-left: -3px;
+  }
+
+  #navbar .name {
+    width: 90%;
+    height: 35px;
+    margin: 14px 14px;
+    padding: 0 0;
+  }
+
+  #navbar .name2 {
+    width: 90%;
+    height: 35px;
+    margin: -6px 14px;
+    padding: 0 0;
+  }
+
+  #navbar .name3 {
+    width: 90%;
+    height: 35px;
+    margin: 13px 14px;
+    padding: 0 0;
+  }
+
+  #navbar .name4 {
+    width: 90%;
+    padding: 0 0;
+    height: 35px;
+    margin: -10px 14px;
+  }
+
+  #navbar .__btn {
+    width: 90%;
+    height: 35px;
+    margin: -33px 14px;
+  }
+
+  #navbar .area {
+    width: 90%;
+    padding: 4px 17px;
+    height: 70px;
+    margin: 14px 14px;
+  }
+
+  #navbar .modal-window {
+    width: 100%;
+    height: 226%;
+  }
+}
+@media (max-width: 320px) {
+  #navbar .btn {
+    margin-left: 226px;
+    margin-top: -15px;
+  }
+
+  #navbar .row--title__item {
+    font-size: 34px;
+    margin-top: -85px;
+  }
+
+  #navbar .row--title__item2 {
+    font-size: 13px;
+  }
+
+  #navbar .row--title__mode {
+    font-size: 10px;
+  }
+
+  #navbar .row--title__fab {
+    color: red;
+    margin: 0 31px;
+    font-size: 33px;
+  }
+
+  #navbar .row--title__fabs {
+    margin-left: 7px;
+  }
+
+  #services .row--item__page {
+    font-size: 16px;
+  }
+
+  #services .row--item__page2 {
+    font-size: 9px;
+  }
+
+  #services .row--item__price3 {
+    font-size: 12px;
+    width: 100%;
+  }
+
+  #services .row--item__price2 {
+    font-size: 11px;
+  }
+
+  #services .row--item__price {
+    padding: 10px -13px;
+    margin: 10px -20px;
+  }
+
+  #services .row--item--img {
+    padding: 7px 21px;
+  }
+
+  #services .row--item__dots {
+    width: 10px;
+    height: 3px;
+  }
+
+  #services .row--item__dot {
+    margin: 0 9px;
+    display: flex;
+  }
+
+  #services .row--item__btn2 {
+    width: 233px;
+  }
+
+  #application .row--application__your {
+    font-size: 25px;
+  }
+
+  #application .row--application__your2 {
+    font-size: 13px;
+  }
+
+  #application .row--application__area {
+    width: 238px;
+  }
+
+  #application .row--application__btn {
+    width: 238px;
+  }
+
+  #application .row--application__name {
+    width: 90%;
+    height: 35px;
+    margin-left: 16px;
+  }
+
+  #application .row--application__name2 {
+    width: 90%;
+    height: 35px;
+    margin: -10px 15px;
+  }
+
+  #application .row--application__name3 {
+    width: 90%;
+    height: 35px;
+    margin: 27px 15px;
+  }
+
+  #application .row--application__name4 {
+    width: 90%;
+    height: 35px;
+    margin: -5px 15px;
+  }
+
+  #application .row--application__btn {
+    width: 238px;
+    height: 35px;
+  }
+
+  #application .row--application__data {
+    font-size: 13px;
+  }
+
+  #footer .row--footer__project {
+    font-size: 24px;
+  }
+
+  #footer .row--footer__btn {
+    width: 165px;
+    height: 35px;
+    font-size: 14px;
+  }
+
+  #footer .row--footer__ins {
+    margin: 5px 22px;
+  }
+
+  #navbar .row--title__square {
+    margin-left: 23px;
+    margin-top: 112px;
+    width: 90%;
+  }
+
+  #navbar .row--title__btn3 {
+    margin-left: 72px;
+  }
+
+  #navbar .row--title__vk {
+    padding-left: 248px;
+  }
+
+  #navbar .menu {
+    margin-left: -16px;
+    font-size: 25px;
+  }
+
+  #navbar .menu2 {
+    margin-left: -16px;
+  }
+
+  #navbar .row--tench {
+    margin-top: 544%;
+    margin-left: -264px;
+  }
+
+  #navbar .tench2 {
+    width: 90%;
+    height: 3px;
+    background: red;
+    position: absolute;
+    margin-top: 196%;
+    margin-left: -77px;
+  }
+
+  #navbar .modal-window {
+    width: 100%;
+    height: 250%;
+  }
+
+  #navbar .tench {
+    width: 90%;
+    height: 3px;
+    position: absolute;
+    background: red;
+    margin: 236px -76px;
+  }
+
+  #navbar .row--tench2 {
+    margin-top: 218%;
+    margin-left: -249px;
+  }
+
+  #navbar .card {
+    margin: 29px -74px;
+    width: 228%;
+    height: 90%;
+  }
+
+  #navbar .name {
+    width: 90%;
+    height: 35px;
+    margin: 15px 13px;
+  }
+
+  #navbar .name2 {
+    width: 90%;
+    height: 35px;
+    margin: -34px 12px;
+  }
+
+  #navbar .name3 {
+    width: 90%;
+    height: 35px;
+    margin: 14px 12px;
+  }
+
+  #navbar .name4 {
+    HEIGHT: 35PX;
+    width: 90%;
+    margin: -3px 11px;
+  }
+
+  #navbar .area {
+    width: 90%;
+    HEIGHT: 62PX;
+    margin: 17px 12px;
+  }
+
+  #navbar .__btn {
+    width: 90%;
+    height: 35px;
+    margin: -13px 13px;
+  }
+}
+
+/*# sourceMappingURL=services.media.css.map */
